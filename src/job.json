@@ -1,20 +1,6 @@
 {
   "jobs": [
     {
-      "id": "d05b",
-      "type": "",
-      "title": "",
-      "description": "",
-      "salary": "",
-      "location": "",
-      "company": {
-        "name": "",
-        "description": "",
-        "contactEmail": "",
-        "contactPhone": ""
-      }
-    },
-    {
       "id": "d191",
       "type": "",
       "title": "",
